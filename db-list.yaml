@@ -1,0 +1,4 @@
+services:
+- name-of-pod1
+- name-of-pod2
+# ...

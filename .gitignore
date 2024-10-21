@@ -1,0 +1,5 @@
+.DS_Store
+.sql
+backups
+id_rsa.pub
+id_rsa
